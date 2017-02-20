@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "hapi": "^16.1.0"
+  },
+  "name": "KlubitusServer",
+  "version": "0.0.1",
+  "description": "JavaScript server for Klubitus",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anqqa/klubitus-server.git"
+  },
+  "keywords": [
+    "javascript",
+    "hapi",
+    "graphql"
+  ],
+  "author": "Antti Qvickström",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anqqa/klubitus-server/issues"
+  },
+  "homepage": "https://github.com/anqqa/klubitus-server"
+}
